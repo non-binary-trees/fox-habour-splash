@@ -16,3 +16,7 @@
   margin: auto auto;
   text-align: center;
 }
+
+.markdown-body>*:first-child {
+    margin-top: auto;
+}
