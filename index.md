@@ -2,5 +2,8 @@
 layout: default
 ---
 
+# Fox Harbour
 
-signup for email alerts
+## Kickstarter coming soon
+
+Signup for email alerts. [We wont share your email](email-policy).
