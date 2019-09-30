@@ -1,1 +1,18 @@
+:root {
+    --site_grid-template-rows: 1fr auto;
+    --site_grid-template-columns: 1fr;
+    --site_grid-template-areas: "main" "footer";
+    --main_grid-template-rows: auto auto;
+    --main_grid-template-columns: 1fr;
+    --main_grid-template-areas: "content" "form";
+}
 
+.site {
+  min-height: 100vh;
+}
+
+.site__main {
+  max-width: 500px;
+  margin: auto auto;
+  text-align: center;
+}
