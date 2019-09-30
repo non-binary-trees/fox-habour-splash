@@ -1,0 +1,9 @@
+name: Fox Harbour | Kickstarter coming soon!
+short_name: Fox Harbour
+plugins:
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
