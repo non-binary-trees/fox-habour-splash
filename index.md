@@ -6,4 +6,6 @@ layout: default
 
 ## Kickstarter coming soon
 
-Signup for email alerts. [We wont share your email](email-policy).
+Signup for email alerts. 
+
+[Your data privacy is important to us](PRIVACY-POLICY).
