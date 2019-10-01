@@ -1,3 +1,5 @@
+[< back](/)
+
 # Privacy Policy
 
 The purpose of this website is to collect contact information as part of the kickstarter campaign for Fox Harbour. 
