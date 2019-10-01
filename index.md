@@ -1,3 +1,6 @@
+---
+layout: index
+---
 # Fox Harbour
 
 ## Kickstarter coming soon
