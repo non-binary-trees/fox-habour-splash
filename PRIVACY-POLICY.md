@@ -1,4 +1,4 @@
-[< back](/)
+[< back]({{ site.github.baseurl }})
 
 # Privacy Policy
 
